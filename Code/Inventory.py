@@ -37,7 +37,7 @@ def experimental_warning(kind):
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
-        uic.loadUi("inventory.ui", self)
+        uic.loadUi(cfg.FILE_PATHS['INVENTORY_LOCATION'], self)
         self.resize(1050, 1070)
 
         # Global attributes:

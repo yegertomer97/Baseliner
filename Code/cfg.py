@@ -2,7 +2,8 @@ PASSWORDS = {
     'DB_MANAGER': 'dbManager'
 }
 FILE_PATHS = {
-    'DB_LOCATION': "C:\\Users\\eyonai\\OneDrive - JNJ\\Documents\\GitHub\\Baseliner\\Code\\db\\"
+    'DB_LOCATION': "C:\\Users\\TYEGER\\OneDrive - JNJ\\Documents\\GitHub\\Baseliner\\Code\\db",
+    'INVENTORY_LOCATION': "C:\\Users\\TYEGER\\OneDrive - JNJ\\Documents\\GitHub\\Baseliner\\Code\\invetroy.ui"
 }
 
 APPLICATION_VERSION = {
